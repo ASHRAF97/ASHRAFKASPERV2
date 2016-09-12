@@ -23,11 +23,11 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 ➖🔹➖🔹➖🔹➖🔹➖🔹
 ورأهأَ خلي  
 
-git clone https://github.com/ASHRAF97/ASHRAFKASPER.git
+git clone https://github.com/ASHRAF97/ASHRAFKASPERV2.git
 ➖🔹➖🔹➖🔹➖🔹➖🔹
 ورهأ خلي    
 
-cd ASHRAFKASPER
+cd ASHRAFKASPERV2
 ➖🔹➖🔹➖🔹➖🔹➖🔹
 ورهأَ خلي 
 ➖🔹➖🔹➖🔹➖🔹➖🔹
@@ -68,7 +68,7 @@ redis-server
 وفتح ترمنال ثاني وخلي  
 ```sh
 
-sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes && git clone https://github.com/ASHRAF97/ASHRAFKASPER.git && chmod +x launch.sh && ./launch.sh install && ./launch.sh
+sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes && git clone https://github.com/ASHRAF97/ASHRAFKASPERV2.git && chmod +x launch.sh && ./launch.sh install && ./launch.sh
 ```
 
 ➖🔹➖🔹➖🔹➖🔹➖🔹
